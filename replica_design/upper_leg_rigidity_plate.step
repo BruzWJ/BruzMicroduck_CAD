@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'upper_leg_rigidity_plate.step',
-/* time_stamp */ '2026-09-17T17:51:04-06:00',
+/* time_stamp */ '2026-09-08T16:17:15-06:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.2',
@@ -4039,7 +4039,7 @@ SOLID_ANGLE_UNIT()
 #3005=PRODUCT_DEFINITION_SHAPE('',$,#3008);
 #3006=SHAPE_REPRESENTATION('',(#787),#2998);
 #3007=PRODUCT_DEFINITION_CONTEXT('part definition',#3012,'design');
-#3008=PRODUCT_DEFINITION('2026-09-17-17-51-04-062',
+#3008=PRODUCT_DEFINITION('2026-08-30-03-06-20-569',
 'upper_leg_rigidity_plate',#3009,#3007);
 #3009=PRODUCT_DEFINITION_FORMATION('',$,#3014);
 #3010=PRODUCT_RELATED_PRODUCT_CATEGORY('upper_leg_rigidity_plate',
@@ -4049,7 +4049,7 @@ SOLID_ANGLE_UNIT()
 #3012=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #3013=PRODUCT_CONTEXT('part definition',#3012,'mechanical');
-#3014=PRODUCT('2026-09-17-17-51-04-062','upper_leg_rigidity_plate',$,(#3013));
+#3014=PRODUCT('2026-08-30-03-06-20-569','upper_leg_rigidity_plate',$,(#3013));
 #3015=PRESENTATION_STYLE_ASSIGNMENT((#3016));
 #3016=SURFACE_STYLE_USAGE(.BOTH.,#3017);
 #3017=SURFACE_SIDE_STYLE('',(#3018));
